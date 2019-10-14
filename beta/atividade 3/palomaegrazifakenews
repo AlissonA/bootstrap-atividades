@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <title>Noticias toda hora</title>
+
+
+
+</head>
+
+<style>
+
+    body{
+        background-color: antiquewhite
+
+    }
+
+img{
+    width: 280px;
+    height: 209px;
+}
+
+.titulo{
+    padding: 30px;
+    text-align: center;
+    background: rgb(230, 8, 8);
+}
+
+h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    text-shadow: 2px 2px black;
+    font-size: 50px;
+}
+
+h2{
+background-color: rgba(28, 94, 151, 0.206);
+
+}
+
+p{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+text-align: justify;
+color: black;
+
+}
+
+
+
+
+
+</style>
+
+<body>
+
+                    <div class="titulo">
+                        <h1>site de notícias</h1>
+                    </div>
+                     <div class="conteiner">
+                    <div class="row">
+                    <div class="col-sm-4">
+                        <h2>
+                            Área 51 foi finalmente invadida por fãs de Naruto
+                        </h2>
+                        <p> Durante muito tempo, a Área 51 foi alvo de mistério, porém nesta quinta-feira 31 de Fevereiro, grupo enorme de fãs do anime japonês Naruto, atacaram os guardas do lugar e invadiram o aviário</p>
+                        <img src="http://download-ats.com/uploads/posts/2016-03/1457905264_77c7.jpg" alt="Area 51">
+                    </div>
+                    <div class="col-sm-4">
+                        <h2>
+                            O presidente Jair Bolsonaro foi assassinado com 72 FACADAS por um grupo LGBTQIWL+ após ter criticado as fanfics ABO 
+                        </h2>
+
+                        <p>As fanfics ABO (alfa, beta, ômega) são um hit da internet, principalmente entre fãs de k-pop e, ao se mostrar contrário à viadagem tratada no conteúdo, foi assassinado a facadas, 72 para exatidão.</p>
+                        <img src="https://media.agoramt.com.br/2016/07/faca-ensanguentada-580x387.jpg" alt="faca">
+                     </div>
+                     <div class="col-sm-4"> 
+                        <h3> O filho do atual presidente do Brasil, Jair Bolsonaro, foi flagrado transando com uma travesti em uma boate gay </h3>
+                    <p>Na manha de 24 de setembro, o filho do atual presidente, Jair Bolsonaro, foi visto saindo do seu porsche de mãos dadas com uma drag queen. Em direção a uma boate gay. Será que alguém irá sair do armário?
+                         </p>
+                        
+                        <img src="https://i.ytimg.com/vi/FYLPt8cnkyM/maxresdefault.jpg" alt="filho do presidente
+                        "></div>
+                </div>
+        
+            </div>
+</body>
+</html>
